@@ -7,7 +7,7 @@
 // @version     0.20201220.0
 // @license     MIT
 // @author      Gea-Suan Lin <gslin@gslin.org>
-// @description Stop DuckDuckGo changing url on clicking
+// @description Stop DuckDuckGo changing url on clicking to add more privacy.
 // ==/UserScript==
 
 (() => {
